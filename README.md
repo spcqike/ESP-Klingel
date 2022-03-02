@@ -19,6 +19,6 @@ Create a user with right to use fon and set dial-help<br>
 
 
 
-<img src=images/ESPmodul01.png><br>
-<img src=images/Fritz01.png width=400><br>
-<img src=images/Fritz02.png width=400><br>
+<img src=images/ESPmodul01.png width=600><br>
+<img src=images/Fritz01.png width=600><br>
+<img src=images/Fritz02.png width=600><br>
